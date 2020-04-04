@@ -19,6 +19,13 @@ Accuracy of horse : 92 %
 Accuracy of  ship : 94 %
 Accuracy of truck : 95 %
 
+Older version :
+Code : EVA4_S10
+Training accuracy : 81.86%
+Validation accuracy : 87.14%
+Total epochs : 50
+Architecture : ResNet18
+
 Inference : StepLR provided better accuracy compared to ReduceLROnPlateau
 
 Train log
